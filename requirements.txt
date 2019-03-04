@@ -1,6 +1,0 @@
-node==v10.13.0
-npm==6.4.1
-git==2.15.1
-
-$ git clone https://github.com/heroku/node-js-getting-started.git
-cd node-js-getting-started
